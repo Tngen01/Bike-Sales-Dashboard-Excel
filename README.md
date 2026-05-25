@@ -108,13 +108,9 @@ The dashboard provides insights that can help businesses:
 
 ## Files
 
-Bike-Sales-Dashboard-Excel/
-│
-├── README.md
-├── Bike_Sales_Dashboard.xlsx
-├── Dashboard_Report.pdf
-└── Dataset.xlsx
-
+- Dataset
+- Dashboard
+- README
 ---
 
 ## Author
